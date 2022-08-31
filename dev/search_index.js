@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = memoProgClass2022w","category":"page"},{"location":"#HelloWorld","page":"Home","title":"HelloWorld","text":"","category":"section"},{"location":"#memoProgClass2022w","page":"Home","title":"memoProgClass2022w","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for memoProgClass2022w.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [memoProgClass2022w]","category":"page"}]
+}
