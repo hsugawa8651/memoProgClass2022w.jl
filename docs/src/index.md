@@ -18,7 +18,7 @@ Modules = [memoProgClass2022w]
 ```@meta
 CurrentModule = memoProgClass2022w
 ```
-# 2021年度版
+# 2022年度版
 
 この内容は，2022年度後期の授業（2022年10月から2023年1月）向けに公開するものです．
 - 実行結果は，Julia 1.x （→ [FAQ: Julia Releases](https://docs.julialang.org/en/v1/manual/faq/#Julia-Releases) ）により出力されたものです．
