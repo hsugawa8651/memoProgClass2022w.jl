@@ -2,10 +2,6 @@
 CurrentModule = memoProgClass2022w
 ```
 
-# memoProgClass2022w
-
-Documentation for [memoProgClass2022w](https://github.com/hsugawa8651/memoProgClass2022w.jl).
-
 # 2022年度版
 
 この内容は，2022年度後期の授業（2022年10月から2023年1月）向けに公開するものです．
@@ -47,7 +43,7 @@ Pages=[
 
 ```@contents
 Pages=[
-	# "ch0a.md",
-	# "ch0b.md"
+	"ch0a.md",
+	"ch0b.md"
 ]
 ```
