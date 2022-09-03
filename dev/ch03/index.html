@@ -242,7 +242,7 @@ ax1.set_ylabel(&quot;velocity / m s^-1&quot;)
 ax2.set_ylabel(&quot;height / m&quot;)
 ax1.axvline(10 / 9.8, color = &quot;k&quot;, lw = 0.5)
 ax1.axvline(0, color = &quot;k&quot;, lw = 0.5)
-ax1.axhline(0, color = &quot;k&quot;, lw = 0.5)</code></pre><pre class="documenter-example-output"><code class="nohighlight hljs ansi">PyObject &lt;matplotlib.lines.Line2D object at 0x7f70b47d9e70&gt;</code></pre><p>各軸に含まれる曲線の形状と凡例を， <code>get_legend_handles_labels</code> 関数を用いて，取り出す．</p><p>二つの軸に含まれる形状と凡例を，それぞれ結合する． 片方の軸に対して，結合した形状と凡例を追加する．</p><pre><code class="language-julia hljs">lns1, lbl1 = ax1.get_legend_handles_labels()
+ax1.axhline(0, color = &quot;k&quot;, lw = 0.5)</code></pre><pre class="documenter-example-output"><code class="nohighlight hljs ansi">PyObject &lt;matplotlib.lines.Line2D object at 0x7f5215c18490&gt;</code></pre><p>各軸に含まれる曲線の形状と凡例を， <code>get_legend_handles_labels</code> 関数を用いて，取り出す．</p><p>二つの軸に含まれる形状と凡例を，それぞれ結合する． 片方の軸に対して，結合した形状と凡例を追加する．</p><pre><code class="language-julia hljs">lns1, lbl1 = ax1.get_legend_handles_labels()
 lns2, lbl2 = ax2.get_legend_handles_labels()
 lns = [lns1; lns2]
 lbls = [lbl1; lbl2]
