@@ -1,5 +1,8 @@
 .gitignore
 .DS_Store
+.vscode
+.textlintrc
 /Manifest.toml
 /docs/Manifest.toml
 /docs/build/
+
