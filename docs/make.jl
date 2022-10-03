@@ -13,6 +13,7 @@ makedocs(;
         canonical="https://hsugawa8651.github.io/memoProgClass2022w.jl",
         edit_link="main",
         assets=String[],
+        lang="ja"
     ),
     pages=[
         "Home" => "index.md",
